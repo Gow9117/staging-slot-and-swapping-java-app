@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Staging slot and swapping implementation in Azure Using GitHub</h2>
+<h2>Staging slot changes done with updated version</h2>
 </body>
 </html>
